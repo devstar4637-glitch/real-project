@@ -1,0 +1,6 @@
+{
+  "name": "Multimodal Content Factory",
+  "description": "Autonomous multi-agent pipeline orchestrating planner, workers, and evaluator agents with auto-retry and full traceability.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
